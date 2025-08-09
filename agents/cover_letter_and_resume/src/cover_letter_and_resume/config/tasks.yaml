@@ -1,0 +1,49 @@
+# ==== Tasks ===
+# This file defines the tasks for the Cover Letter and Resume agents.
+cv_task:
+    description: >
+        Generate an ATS-compliant CV for the given candidate name {candidate_name}.
+        Using the profile and job requirements obtained from the job description {job_description}
+        tailor the resume to highlight the most 
+        relevant areas. Employ tools to adjust and enhance the 
+        resume content.
+        Update every section, inlcuding the initial
+        summary, work experience, skills, 
+        and education. All to better enhance the candidates 
+        abilities and how it matches the job description {job_description}
+        Input: {candidate_name}, {location}, {job_role}, {job_type}, {job_description}. 
+        Output: cv_text in markdown format.
+    expected_output: >
+        A comprehensive and updated resume that effectively highlights the candidate's 
+        qualifications and experiences relevant to the job {job_description}.
+    agent: cv_creator
+
+
+cover_letter_task:
+    description: >
+        Using the CV or resume from previous task and job description {job_description}
+        using the tools, create a tailored cover letter. 
+        Ensure tone is professional and matches candidate profile.
+    expected_output: >
+        A comprehensive profile document that includes skills, 
+        project experiences, contributions, interests. to company {company_name}
+    context: [cv_task]
+    agent: cover_letter_creator
+
+
+ats_checker_task:
+    description: >
+        Validate both CV and Cover Letter from previous tasks
+        for ATS compliance, remove AI-like phrases, 
+        ensure human tone, and output as a markdown
+        Make sure this is the best resume ever but 
+        don't make up any information. 
+    expected_output: >
+       An updated resume that effectively highlights the candidate's 
+        qualifications and experiences relevant to the job
+        and a cover letter tailored to the job
+        requirements both formatted as a markdown file.
+    context: [cv_task, cover_letter_task]
+    output_file: Resume_and_cover_letter.md
+    agent: ats_checker
+
