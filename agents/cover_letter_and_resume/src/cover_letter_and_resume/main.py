@@ -22,13 +22,13 @@ def read_item(item_id: int, q: Union[str, None] = None):
     return {"item_id": item_id, "q": q}
 
 
-@app.get("/create/")
-def create():
+@app.get("/create/{name}")
+def create(name: str):
     """
     Run the crew.
     """
     inputs = {
-        "candidate_name": "John Doe",
+        "candidate_name": name,
     "company_name": "JUNEBusiness",
     "location": "London, UK",
     "job_role": "Data Analyst",

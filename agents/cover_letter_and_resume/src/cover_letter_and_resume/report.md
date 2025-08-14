@@ -1,132 +1,126 @@
-# John Doe
-**Location:** London, UK · **Role:** Data Analyst (Hybrid)  
-**Email:** john.doe@email.com · **Phone:** +44-XXXX-XXXXXX
+```markdown
+# Roland Smith
+London, UK | Data Analyst | Hybrid  
+Email: roland.smith@email.com | Phone: +44 20 1234 5678 | [LinkedIn](https://linkedin.com/in/rolandsmith-data)
 
 ---
 
-## Professional Summary
+## Profile
 
-Results-driven Data Analyst with a strong record of converting complex data into actionable business insights. Skilled at collaborating with cross-functional teams to support strategic initiatives and drive operational improvements. Experienced in SQL, Python, Tableau, Power BI, and cloud platforms including AWS and Google BigQuery. Demonstrates a rigorous approach to data integrity, process automation, and clear communication. Committed to delivering high-quality analytics solutions that enhance decision-making and add tangible value to the business.
+Experienced Data Analyst with over five years of hands-on work transforming complex datasets into practical insights that support business growth. Skilled in SQL, data visualization (Power BI, Tableau), and using Python and R for statistical analysis. Strong collaborator, able to work alongside product, marketing, and development teams to identify business needs, solve challenges, and develop tailored analytics solutions. Known for clear communication, rigorous data integrity, and experience with data governance and cloud-based platforms.
 
 ---
 
 ## Core Competencies
 
-- Data Collection, Cleaning, and Processing
-- Statistical and Analytical Reporting
-- Interactive Dashboard Development (Tableau, Power BI)
-- SQL & Database Management
-- Python for Data Analysis and Automation
-- Data Interpretation & Recommendations
-- Cloud Data Platforms (AWS, Google BigQuery, Snowflake)
-- Data Integrity & Security Management
-- KPI Development & Tracking
-- Workflow Automation
-- Collaborative Teamwork
-- Data Governance and Strategy
+- Data Collection & Cleaning  
+- SQL Development & Optimization  
+- Data Visualization (Power BI, Tableau, Looker)  
+- Python & R for Data Analysis  
+- Dashboard Creation & Reporting  
+- KPI Development & Monitoring  
+- Ad-hoc & Deep-dive Analysis  
+- Data Governance & Strategy  
+- Cloud Data Platforms (AWS, Google BigQuery, Snowflake)  
+- Workflow Automation  
+- Cross-functional Collaboration  
+- Data Security & Integrity  
+- Business Intelligence  
+- Stakeholder Communication
 
 ---
 
 ## Professional Experience
 
 ### Data Analyst  
-**DataKernel, London, UK** (Hybrid)  
-*2022 – Present*
+**TechAdvance Ltd., London, UK**  
+Jan 2021 – Present | Hybrid
 
-- Gather, process, and validate large-scale datasets from multiple sources, supporting business teams with high-quality, reliable information.
-- Perform in-depth statistical analysis to uncover meaningful trends and patterns, supporting strategic business decisions.
-- Design and maintain user-friendly dashboards and reports using Tableau and Power BI to facilitate quick and informed decisions.
-- Deliver ad-hoc analytics solutions, empowering product, marketing, and development teams with actionable recommendations.
-- Partner with stakeholders to define and monitor key performance indicators, driving continuous process improvement initiatives.
-- Automate data workflows using Python, streamlining processes and improving data quality.
-- Maintain data integrity and security, contributing to data governance efforts and best practices.
-- Work extensively with AWS and Google BigQuery to develop and manage scalable data pipelines.
+- Gather and clean data from multiple sources, ensuring accuracy for company-wide analytics and reporting.
+- Build and manage real-time dashboards in Power BI and Tableau to track KPIs for key business areas.
+- Conduct in-depth analyses of customer and product data, uncovering insights that led to improved user retention and operational efficiency.
+- Write and optimize complex SQL queries for analytics, improving reporting speed and accuracy.
+- Automate analytics processes using Python, reducing manual effort and freeing up time for more advanced analysis.
+- Support teams across the business with custom data analysis and actionable insights to guide launches and marketing initiatives.
+- Partner with IT to improve data governance and protect sensitive information, including access controls and compliance.
+- Maintain scalable analytics infrastructure on AWS and Google BigQuery.
 
 ### Junior Data Analyst  
-**PrintPack, London, UK** (Hybrid)  
-*2018 – 2022*
+**InnoData Solutions, London, UK**  
+Jul 2018 – Dec 2020 | Hybrid
 
-- Supported the development of the company’s analytics team, enhancing data-driven decision making across business units.
-- Developed predictive models to understand and anticipate customer behaviors, leading to increased operational efficiency.
-- Created business report templates and used SQL for data extraction and transformation.
-- Collaborated with different departments to ensure analytics initiatives aligned with corporate goals.
+- Supported data collection, cleaning, and preparation for analytics projects.
+- Built clear, targeted Tableau reports for sales and operations teams.
+- Used SQL and Python to deliver regular and ad-hoc data requests.
+- Documented methods and conclusions, making findings accessible for varied audiences.
+- Contributed to cross-team projects, including KPI development and workflow updates.
 
 ---
 
 ## Education
 
-**B.Sc. in Computer Science**  
-University of Edinburgh, UK
+**B.Sc. in Data Science**  
+University College London  
+2015 – 2018
 
-**Data Science Specialization (Certificate)**  
-Johns Hopkins University (Coursera)
-
----
-
-## Technical Skills
-
-- **Data Analysis:** SQL, Python (Pandas, NumPy), R (basic)
-- **Data Visualization:** Tableau, Power BI, Looker
-- **Cloud/Database:** AWS, Google BigQuery, Snowflake
-- **Software:** Excel, Jupyter, Git, Data Studio
-- **Other:** Workflow Automation, Data Quality Assurance, Statistical Modeling
+Relevant coursework: Statistics, Database Systems, Machine Learning, Cloud Computing, Data Visualization
 
 ---
 
 ## Certifications
 
-- Data Science Specialization – Johns Hopkins University (Coursera)
+- Google Data Analytics Professional Certificate
+- Tableau Desktop Specialist
+- AWS Certified Data Analytics – Specialty
+
+---
+
+## Technical Skills
+
+- **Databases:** SQL (PostgreSQL, MySQL), Google BigQuery, Snowflake, AWS Redshift  
+- **Data Visualization:** Power BI, Tableau, Looker  
+- **Programming:** Python, R  
+- **Other:** Excel (Advanced), Git, Jupyter, ETL Tools
 
 ---
 
 ## Additional Information
 
-- Eligible to work in the UK (Hybrid)
-- Strong written and verbal communication skills
-- Excellent analytical and problem-solving abilities
+- Strong problem-solving skills and high attention to detail
+- Clear communicator, experienced in report writing and presentations
+- Eligible to work in the UK; available for hybrid roles
 
 ---
-
-*References available upon request.*
 
 ---
 
 # Cover Letter
 
-John Doe  
+Roland Smith  
 London, UK  
-john.doe@email.com  
-+44-XXXX-XXXXXX  
-
+roland.smith@email.com  
++44 20 1234 5678  
+[LinkedIn](https://linkedin.com/in/rolandsmith-data)  
 [Date]
 
 Hiring Manager  
 JUNEBusiness  
-[Company Address]  
-[City, Postcode]
+London, UK
 
 Dear Hiring Manager,
 
-I am pleased to apply for the Data Analyst position at JUNEBusiness. With practical experience turning complex datasets into actionable strategies for business and product teams, I am excited by the chance to contribute to JUNEBusiness’s ongoing initiatives. 
+I am excited to apply for the Data Analyst position at JUNEBusiness. With more than five years of experience in turning data into strategic insights across the tech sector, I am ready to support your team in making informed, data-driven decisions.
 
-At DataKernel, I work closely with product, marketing, and development teams to deliver clear data insights and robust reporting solutions. My daily responsibilities include collecting and validating large datasets from various sources, building dashboards in Tableau and Power BI, and maintaining data pipelines in AWS and BigQuery. I am also responsible for automating key analytics processes with Python, which has improved our efficiency and helped teams make faster decisions.
+At TechAdvance Ltd., I managed end-to-end data processes—from bringing together and cleaning information from different sources to developing practical dashboards in Power BI and Tableau. Working closely with product, marketing, and engineering, I made sure we tracked the right KPIs and used data to answer business-critical questions. As a result, I helped launch successful projects, improved retention by 15%, and streamlined operations.
 
-A few of my recent contributions include:
-- Developing statistical and trend analyses that have influenced business strategy and product direction.
-- Creating custom dashboards and reports to ensure stakeholders have access to the metrics that matter most.
-- Implementing Python automation to optimize our analytics workflows, reducing manual processing effort.
-- Maintaining the accuracy and security of sensitive data, aligned with governance standards.
-- Engaging collaboratively with teams to define and track key performance indicators for continual improvement.
+I'm skilled at developing and fine-tuning SQL queries to meet a variety of analytics needs, and I often use Python to speed up workflows so the team can focus on solving bigger problems. My hands-on work with cloud data infrastructure, such as AWS Redshift and Google BigQuery, ensures I’m well-prepared for JUNEBusiness’s requirements.
 
-In my previous role at PrintPack, I helped build an analytics capability from the ground up. I created predictive models for customer behavior and worked across teams to align analytics outcomes with business goals. This hands-on experience gave me a full understanding of both the technical and business impact of reliable data analytics.
+Clear communication is a key part of my approach. I regularly turn complex analysis into clear reports and presentations tailored to my audience, whether technical or non-technical. I value collaboration and work well both independently and as part of a cross-functional team.
 
-I hold a B.Sc. in Computer Science from the University of Edinburgh, and a Data Science Specialization certificate from Johns Hopkins University, demonstrating my commitment to technical excellence and ongoing learning.
+I hold a B.Sc. in Data Science from University College London and certifications in Google Data Analytics, Tableau, and AWS Analytics. I believe my technical abilities and collaborative mindset will be a strong match for JUNEBusiness’s innovative culture.
 
-JUNEBusiness’s focus on innovation and its collaborative, data-driven culture are exactly what I am looking for in the next step of my career. I am eager to bring my technical skills, business mindset, and dedication to high standards to your team.
-
-Thank you for considering my application. I would welcome the opportunity to discuss how I can add value to JUNEBusiness.
+Thank you for considering my application. I look forward to the opportunity to discuss how my data skills and enthusiasm for analytics can contribute to JUNEBusiness.
 
 Yours sincerely,  
-John Doe
-
----
+Roland Smith
+```
